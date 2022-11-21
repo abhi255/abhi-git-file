@@ -1,0 +1,30 @@
+.Navbar { background-color: rgb(75, 195, 155);
+          padding: 10px;
+}
+.Navbar a:hover { color: black; }
+.Navbar a{ margin-left: 10px; }
+a{ color: rgb(251, 250, 251);
+   text-decoration: none;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; }
+body { margin: 0px;}
+.float-right { float: right; }
+.btn { padding: 4px 6px 4px 6px;
+border-radius: 2px; }
+.btn:hover{ background-color: rgb(255, 0, 0); }
+
+.btn-1 { background-color: rgb(15, 42, 33);}
+
+.btn-2 { background-color: rgb(15, 42, 33);}
+
+.btn .btn-1 a:hover{ background-color: red;  }
+
+.Tourism { background-color:rgb(233, 233, 233) ; 
+margin: 0;
+padding: 6px;}
+.display { display: flex;
+}
+
+.tr1 { border: 2px solid rgb(76, 76, 76);
+margin: 10px;
+align-items: center; }
+   .Navbar{ position: sticky; top: 0; }
